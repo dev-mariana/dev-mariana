@@ -1,5 +1,9 @@
 # Hello guys, I'm Mariana 👋
 
+<header align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?                             cid=ecf05e479c3nmvpsux21lrz48l7nvey1h5i6nbusadcge3oo&rid=giphy.gif&ct=g)" width="100"/>
+</header>
+
 ## About me:
 
 I'm a Full Stack Developer with focus on the Backend.
