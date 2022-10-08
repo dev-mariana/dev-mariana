@@ -1,8 +1,8 @@
 # Hello guys, I'm Mariana 👋
 
-<header align="center">
+<div align="center">
   <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e479c3nmvpsux21lrz48l7nvey1h5i6nbusadcge3oo&rid=giphy.gif&ct=g" width="300"/>
-</header>
+</div>
 
 ## About me:
 
