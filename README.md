@@ -6,8 +6,9 @@
 
 ## About me:
 
-I'm a Full Stack Developer with focus on the Backend.
-I'm from Brazil. 
+<p>I'm a Full-Stack Developer with focus on the Backend.</p>
+<p>I'm from Brazil.</p> 
+<p>I have 24 years</p>
 
 - 🔭 I’m currently working on Web Development with Typescript, Node.js, Nest.js, Microservices and GraphQL.
 - 🌱 I’m currently learning Nest.js, GraphQL, Java, Spring Boot and Domain Driven Design...
