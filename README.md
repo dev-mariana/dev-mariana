@@ -7,7 +7,7 @@
 ## About me:
 
 <p>I'm from Brazil.</p> 
-<p>I have 26 years.</p>
+<p>I'm 26 years old.</p>
 <p>I'm a Full-Stack Developer with focus on the Backend.</p>
 
 - 🔭 I’m currently working on Web Development with Typescript, Node.js, Nest.js, Microservices and GraphQL.
