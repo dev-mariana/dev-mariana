@@ -15,4 +15,5 @@
 
 ## Languages and Tools:
 
-- [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,html,css,angular,vue,java,spring,prisma,postgres,mysql,docker,jest,vitest,azure,aws&perline=15)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,html,css,angular,vue,java,spring,prisma,postgres,mysql,docker,jest,vitest,azure,aws&perline=15)](https://skillicons.dev)
