@@ -7,11 +7,11 @@
 ## About me:
 
 <p>I'm from Brazil.</p> 
-<p>I'm 26 years old.</p>
-<p>I'm a Full-Stack Developer with focus on the Backend.</p>
+<p>I'm 27 years old.</p>
+<p>I'm a Software Engineer with focus on the Backend side.</p>
 
-- 🔭 I’m currently working on Web Development with Typescript, Node.js, Nest.js, Microservices and GraphQL.
-- 🌱 I’m currently learning Nest.js, GraphQL, Java, Spring Boot and Domain Driven Design...
+- 🔭 I’m currently working on Building Web REST APIs using JavaScript, Typescript, Node.js, Nest.js, Prisma, PostgreSQL and Microservices.
+- 🌱 I’m currently learning Fastify, Golang, Domain Driven Design, Clean Code, SOLID, Design Patterns, Hexagonal Architecture and Software Development good practices...
 
 ## Languages and Tools:
 
