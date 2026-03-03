@@ -7,10 +7,10 @@
 ## About me:
 
 <p>I'm from Brazil.</p> 
-<p>I'm 27 years old.</p>
+<p>I'm 28 years old.</p>
 <p>I'm a Software Engineer with focus on the Backend side.</p>
 
-- 🔭 I’m currently working on Building Web REST APIs using JavaScript, Typescript, Node.js, Nest.js, Prisma, PostgreSQL and Microservices.
+- 🔭 I’m currently working on Building Web REST & GraphQL APIs using JavaScript, Typescript, Node.js, Nest.js, Prisma, Drizzle ORM, PostgreSQL, Redis, MongoDB and Microservices.
 - 🌱 I’m currently learning Fastify, Golang, AWS, Domain Driven Design, Clean Code, SOLID, Design Patterns, Hexagonal Architecture and Software Development good practices...
 - :computer: I also already worked with Angular, Vue and Ionic to build Web & Mobile Frontend Applications.
 
